@@ -53,6 +53,7 @@ section {
 }
 
 section p {
+    line-height: 70px;
     font-size:calc(28px + 1vw);
 }
 
